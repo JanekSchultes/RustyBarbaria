@@ -1,1 +1,1 @@
-mod rendering;
+pub mod voxel_render;
